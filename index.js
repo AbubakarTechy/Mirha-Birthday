@@ -1,4 +1,5 @@
 // function openVideo(videoSrc) {
+
 //     const videoModal = document.createElement('div');
 //     videoModal.classList.add('video-modal');
 //     videoModal.innerHTML = `
