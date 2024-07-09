@@ -4,7 +4,6 @@
 //     videoModal.classList.add('video-modal');
 //     videoModal.innerHTML = `
 
-
 //         <div class="video-content">
 //             <span class="close-button">&times;</span>
 //             <video controls autoplay>
