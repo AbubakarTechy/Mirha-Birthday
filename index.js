@@ -26,7 +26,6 @@
 //     });
 // }
 
-
 // scripts.js
 function playVideo(videoUrl, description) {
     // Create a new video element
