@@ -11,7 +11,6 @@
 //         </div>
 //     `;
 
-
 //     document.body.appendChild(videoModal);
 
 //     const closeButton = videoModal.querySelector('.close-button');
